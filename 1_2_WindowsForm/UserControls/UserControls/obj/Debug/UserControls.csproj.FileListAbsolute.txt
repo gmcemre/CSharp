@@ -1,0 +1,10 @@
+D:\Projects\1_Introduction\1_2_WindowsForm\UserControls\UserControls\bin\Debug\UserControls.exe.config
+D:\Projects\1_Introduction\1_2_WindowsForm\UserControls\UserControls\bin\Debug\UserControls.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\UserControls\UserControls\bin\Debug\UserControls.pdb
+D:\Projects\1_Introduction\1_2_WindowsForm\UserControls\UserControls\obj\Debug\UserControls.Form1.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\UserControls\UserControls\obj\Debug\UserControls.InputControl.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\UserControls\UserControls\obj\Debug\UserControls.Properties.Resources.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\UserControls\UserControls\obj\Debug\UserControls.csproj.GenerateResource.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\UserControls\UserControls\obj\Debug\UserControls.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\UserControls\UserControls\obj\Debug\UserControls.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\UserControls\UserControls\obj\Debug\UserControls.pdb

@@ -1,0 +1,10 @@
+D:\Projects\1_Introduction\1_2_WindowsForm\TcknDogrulama\TcknDogrulama\bin\Debug\TcknDogrulama.exe.config
+D:\Projects\1_Introduction\1_2_WindowsForm\TcknDogrulama\TcknDogrulama\bin\Debug\TcknDogrulama.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\TcknDogrulama\TcknDogrulama\bin\Debug\TcknDogrulama.pdb
+D:\Projects\1_Introduction\1_2_WindowsForm\TcknDogrulama\TcknDogrulama\obj\Debug\TcknDogrulama.csproj.AssemblyReference.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\TcknDogrulama\TcknDogrulama\obj\Debug\TcknDogrulama.Form1.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\TcknDogrulama\TcknDogrulama\obj\Debug\TcknDogrulama.Properties.Resources.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\TcknDogrulama\TcknDogrulama\obj\Debug\TcknDogrulama.csproj.GenerateResource.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\TcknDogrulama\TcknDogrulama\obj\Debug\TcknDogrulama.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\TcknDogrulama\TcknDogrulama\obj\Debug\TcknDogrulama.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\TcknDogrulama\TcknDogrulama\obj\Debug\TcknDogrulama.pdb

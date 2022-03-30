@@ -1,0 +1,10 @@
+D:\Projects\1_Introduction\1_2_WindowsForm\Listeleyiciler\Listeleyiciler\bin\Debug\Listeleyiciler.exe.config
+D:\Projects\1_Introduction\1_2_WindowsForm\Listeleyiciler\Listeleyiciler\bin\Debug\Listeleyiciler.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\Listeleyiciler\Listeleyiciler\bin\Debug\Listeleyiciler.pdb
+D:\Projects\1_Introduction\1_2_WindowsForm\Listeleyiciler\Listeleyiciler\obj\Debug\Listeleyiciler.csproj.AssemblyReference.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\Listeleyiciler\Listeleyiciler\obj\Debug\Listeleyiciler.Form1.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\Listeleyiciler\Listeleyiciler\obj\Debug\Listeleyiciler.Properties.Resources.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\Listeleyiciler\Listeleyiciler\obj\Debug\Listeleyiciler.csproj.GenerateResource.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\Listeleyiciler\Listeleyiciler\obj\Debug\Listeleyiciler.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\Listeleyiciler\Listeleyiciler\obj\Debug\Listeleyiciler.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\Listeleyiciler\Listeleyiciler\obj\Debug\Listeleyiciler.pdb

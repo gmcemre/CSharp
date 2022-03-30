@@ -1,0 +1,10 @@
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeKaristirma\ListeKaristirma\bin\Debug\ListeKaristirma.exe.config
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeKaristirma\ListeKaristirma\bin\Debug\ListeKaristirma.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeKaristirma\ListeKaristirma\bin\Debug\ListeKaristirma.pdb
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeKaristirma\ListeKaristirma\obj\Debug\ListeKaristirma.csproj.AssemblyReference.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeKaristirma\ListeKaristirma\obj\Debug\ListeKaristirma.Form1.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeKaristirma\ListeKaristirma\obj\Debug\ListeKaristirma.Properties.Resources.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeKaristirma\ListeKaristirma\obj\Debug\ListeKaristirma.csproj.GenerateResource.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeKaristirma\ListeKaristirma\obj\Debug\ListeKaristirma.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeKaristirma\ListeKaristirma\obj\Debug\ListeKaristirma.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeKaristirma\ListeKaristirma\obj\Debug\ListeKaristirma.pdb

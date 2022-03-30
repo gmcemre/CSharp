@@ -1,0 +1,11 @@
+D:\Projects\1_Introduction\1_2_WindowsForm\MDIForms\MDIForms\bin\Debug\MDIForms.exe.config
+D:\Projects\1_Introduction\1_2_WindowsForm\MDIForms\MDIForms\bin\Debug\MDIForms.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\MDIForms\MDIForms\bin\Debug\MDIForms.pdb
+D:\Projects\1_Introduction\1_2_WindowsForm\MDIForms\MDIForms\obj\Debug\MDIForms.csproj.AssemblyReference.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\MDIForms\MDIForms\obj\Debug\MDIForms.Form1.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\MDIForms\MDIForms\obj\Debug\MDIForms.PersonelForm.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\MDIForms\MDIForms\obj\Debug\MDIForms.Properties.Resources.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\MDIForms\MDIForms\obj\Debug\MDIForms.csproj.GenerateResource.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\MDIForms\MDIForms\obj\Debug\MDIForms.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\MDIForms\MDIForms\obj\Debug\MDIForms.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\MDIForms\MDIForms\obj\Debug\MDIForms.pdb

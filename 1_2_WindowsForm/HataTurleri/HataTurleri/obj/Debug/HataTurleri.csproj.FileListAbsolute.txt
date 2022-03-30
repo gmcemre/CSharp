@@ -1,0 +1,10 @@
+D:\Projects\1_Introduction\1_2_WindowsForm\HataTurleri\HataTurleri\bin\Debug\HataTurleri.exe.config
+D:\Projects\1_Introduction\1_2_WindowsForm\HataTurleri\HataTurleri\bin\Debug\HataTurleri.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\HataTurleri\HataTurleri\bin\Debug\HataTurleri.pdb
+D:\Projects\1_Introduction\1_2_WindowsForm\HataTurleri\HataTurleri\obj\Debug\HataTurleri.csproj.AssemblyReference.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\HataTurleri\HataTurleri\obj\Debug\HataTurleri.Form1.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\HataTurleri\HataTurleri\obj\Debug\HataTurleri.Properties.Resources.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\HataTurleri\HataTurleri\obj\Debug\HataTurleri.csproj.GenerateResource.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\HataTurleri\HataTurleri\obj\Debug\HataTurleri.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\HataTurleri\HataTurleri\obj\Debug\HataTurleri.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\HataTurleri\HataTurleri\obj\Debug\HataTurleri.pdb

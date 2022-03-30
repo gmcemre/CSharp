@@ -1,0 +1,10 @@
+D:\Projects\1_Introduction\1_2_WindowsForm\DialogPencereleri\DialogPencereleri\bin\Debug\DialogPencereleri.exe.config
+D:\Projects\1_Introduction\1_2_WindowsForm\DialogPencereleri\DialogPencereleri\bin\Debug\DialogPencereleri.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\DialogPencereleri\DialogPencereleri\bin\Debug\DialogPencereleri.pdb
+D:\Projects\1_Introduction\1_2_WindowsForm\DialogPencereleri\DialogPencereleri\obj\Debug\DialogPencereleri.csproj.AssemblyReference.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\DialogPencereleri\DialogPencereleri\obj\Debug\DialogPencereleri.Form1.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\DialogPencereleri\DialogPencereleri\obj\Debug\DialogPencereleri.Properties.Resources.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\DialogPencereleri\DialogPencereleri\obj\Debug\DialogPencereleri.csproj.GenerateResource.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\DialogPencereleri\DialogPencereleri\obj\Debug\DialogPencereleri.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\DialogPencereleri\DialogPencereleri\obj\Debug\DialogPencereleri.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\DialogPencereleri\DialogPencereleri\obj\Debug\DialogPencereleri.pdb

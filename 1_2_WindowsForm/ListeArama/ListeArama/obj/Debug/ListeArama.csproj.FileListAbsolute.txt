@@ -1,0 +1,10 @@
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeArama\ListeArama\bin\Debug\ListeArama.exe.config
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeArama\ListeArama\bin\Debug\ListeArama.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeArama\ListeArama\bin\Debug\ListeArama.pdb
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeArama\ListeArama\obj\Debug\ListeArama.csproj.AssemblyReference.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeArama\ListeArama\obj\Debug\ListeArama.Form1.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeArama\ListeArama\obj\Debug\ListeArama.Properties.Resources.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeArama\ListeArama\obj\Debug\ListeArama.csproj.GenerateResource.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeArama\ListeArama\obj\Debug\ListeArama.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeArama\ListeArama\obj\Debug\ListeArama.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\ListeArama\ListeArama\obj\Debug\ListeArama.pdb

@@ -1,0 +1,10 @@
+D:\Projects\1_Introduction\1_2_WindowsForm\PerformansCounter\PerformansCounter\bin\Debug\PerformansCounter.exe.config
+D:\Projects\1_Introduction\1_2_WindowsForm\PerformansCounter\PerformansCounter\bin\Debug\PerformansCounter.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\PerformansCounter\PerformansCounter\bin\Debug\PerformansCounter.pdb
+D:\Projects\1_Introduction\1_2_WindowsForm\PerformansCounter\PerformansCounter\obj\Debug\PerformansCounter.csproj.AssemblyReference.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\PerformansCounter\PerformansCounter\obj\Debug\PerformansCounter.Form1.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\PerformansCounter\PerformansCounter\obj\Debug\PerformansCounter.Properties.Resources.resources
+D:\Projects\1_Introduction\1_2_WindowsForm\PerformansCounter\PerformansCounter\obj\Debug\PerformansCounter.csproj.GenerateResource.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\PerformansCounter\PerformansCounter\obj\Debug\PerformansCounter.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_2_WindowsForm\PerformansCounter\PerformansCounter\obj\Debug\PerformansCounter.exe
+D:\Projects\1_Introduction\1_2_WindowsForm\PerformansCounter\PerformansCounter\obj\Debug\PerformansCounter.pdb
