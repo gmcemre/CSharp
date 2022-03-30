@@ -1,0 +1,7 @@
+D:\Projects\1_Introduction\1_1_Console\TakimOlusturma\TakimOlusturma\bin\Debug\TakimOlusturma.exe.config
+D:\Projects\1_Introduction\1_1_Console\TakimOlusturma\TakimOlusturma\bin\Debug\TakimOlusturma.exe
+D:\Projects\1_Introduction\1_1_Console\TakimOlusturma\TakimOlusturma\bin\Debug\TakimOlusturma.pdb
+D:\Projects\1_Introduction\1_1_Console\TakimOlusturma\TakimOlusturma\obj\Debug\TakimOlusturma.csproj.AssemblyReference.cache
+D:\Projects\1_Introduction\1_1_Console\TakimOlusturma\TakimOlusturma\obj\Debug\TakimOlusturma.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_1_Console\TakimOlusturma\TakimOlusturma\obj\Debug\TakimOlusturma.exe
+D:\Projects\1_Introduction\1_1_Console\TakimOlusturma\TakimOlusturma\obj\Debug\TakimOlusturma.pdb

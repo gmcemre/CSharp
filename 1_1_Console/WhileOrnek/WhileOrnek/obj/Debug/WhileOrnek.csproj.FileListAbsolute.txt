@@ -1,0 +1,7 @@
+D:\Projects\1_Introduction\1_1_Console\WhileOrnek\WhileOrnek\bin\Debug\WhileOrnek.exe.config
+D:\Projects\1_Introduction\1_1_Console\WhileOrnek\WhileOrnek\bin\Debug\WhileOrnek.exe
+D:\Projects\1_Introduction\1_1_Console\WhileOrnek\WhileOrnek\bin\Debug\WhileOrnek.pdb
+D:\Projects\1_Introduction\1_1_Console\WhileOrnek\WhileOrnek\obj\Debug\WhileOrnek.csproj.AssemblyReference.cache
+D:\Projects\1_Introduction\1_1_Console\WhileOrnek\WhileOrnek\obj\Debug\WhileOrnek.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_1_Console\WhileOrnek\WhileOrnek\obj\Debug\WhileOrnek.exe
+D:\Projects\1_Introduction\1_1_Console\WhileOrnek\WhileOrnek\obj\Debug\WhileOrnek.pdb

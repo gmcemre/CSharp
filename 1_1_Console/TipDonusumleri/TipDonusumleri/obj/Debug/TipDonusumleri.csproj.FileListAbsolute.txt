@@ -1,0 +1,7 @@
+D:\Projects\1_Introduction\1_1_Console\TipDonusumleri\TipDonusumleri\bin\Debug\TipDonusumleri.exe.config
+D:\Projects\1_Introduction\1_1_Console\TipDonusumleri\TipDonusumleri\bin\Debug\TipDonusumleri.exe
+D:\Projects\1_Introduction\1_1_Console\TipDonusumleri\TipDonusumleri\bin\Debug\TipDonusumleri.pdb
+D:\Projects\1_Introduction\1_1_Console\TipDonusumleri\TipDonusumleri\obj\Debug\TipDonusumleri.csproj.AssemblyReference.cache
+D:\Projects\1_Introduction\1_1_Console\TipDonusumleri\TipDonusumleri\obj\Debug\TipDonusumleri.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_1_Console\TipDonusumleri\TipDonusumleri\obj\Debug\TipDonusumleri.exe
+D:\Projects\1_Introduction\1_1_Console\TipDonusumleri\TipDonusumleri\obj\Debug\TipDonusumleri.pdb

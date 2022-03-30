@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\CSharp\1_Introduction\1_1_Console\Introduction\Introduction\bin\Debug\Introduction.exe.config
+C:\Users\Lenovo\Desktop\CSharp\1_Introduction\1_1_Console\Introduction\Introduction\bin\Debug\Introduction.exe
+C:\Users\Lenovo\Desktop\CSharp\1_Introduction\1_1_Console\Introduction\Introduction\bin\Debug\Introduction.pdb
+C:\Users\Lenovo\Desktop\CSharp\1_Introduction\1_1_Console\Introduction\Introduction\obj\Debug\Introduction.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\CSharp\1_Introduction\1_1_Console\Introduction\Introduction\obj\Debug\Introduction.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CSharp\1_Introduction\1_1_Console\Introduction\Introduction\obj\Debug\Introduction.exe
+C:\Users\Lenovo\Desktop\CSharp\1_Introduction\1_1_Console\Introduction\Introduction\obj\Debug\Introduction.pdb

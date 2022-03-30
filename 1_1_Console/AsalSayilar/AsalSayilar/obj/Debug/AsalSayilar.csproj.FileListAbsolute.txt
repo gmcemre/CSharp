@@ -1,0 +1,7 @@
+D:\Projects\1_Introduction\1_1_Console\AsalSayilar\AsalSayilar\bin\Debug\AsalSayilar.exe.config
+D:\Projects\1_Introduction\1_1_Console\AsalSayilar\AsalSayilar\bin\Debug\AsalSayilar.exe
+D:\Projects\1_Introduction\1_1_Console\AsalSayilar\AsalSayilar\bin\Debug\AsalSayilar.pdb
+D:\Projects\1_Introduction\1_1_Console\AsalSayilar\AsalSayilar\obj\Debug\AsalSayilar.csproj.AssemblyReference.cache
+D:\Projects\1_Introduction\1_1_Console\AsalSayilar\AsalSayilar\obj\Debug\AsalSayilar.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_1_Console\AsalSayilar\AsalSayilar\obj\Debug\AsalSayilar.exe
+D:\Projects\1_Introduction\1_1_Console\AsalSayilar\AsalSayilar\obj\Debug\AsalSayilar.pdb

@@ -1,0 +1,7 @@
+D:\Projects\1_Introduction\1_1_Console\SwicthCase\SwicthCase\bin\Debug\SwicthCase.exe.config
+D:\Projects\1_Introduction\1_1_Console\SwicthCase\SwicthCase\bin\Debug\SwicthCase.exe
+D:\Projects\1_Introduction\1_1_Console\SwicthCase\SwicthCase\bin\Debug\SwicthCase.pdb
+D:\Projects\1_Introduction\1_1_Console\SwicthCase\SwicthCase\obj\Debug\SwicthCase.csproj.AssemblyReference.cache
+D:\Projects\1_Introduction\1_1_Console\SwicthCase\SwicthCase\obj\Debug\SwicthCase.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_1_Console\SwicthCase\SwicthCase\obj\Debug\SwicthCase.exe
+D:\Projects\1_Introduction\1_1_Console\SwicthCase\SwicthCase\obj\Debug\SwicthCase.pdb

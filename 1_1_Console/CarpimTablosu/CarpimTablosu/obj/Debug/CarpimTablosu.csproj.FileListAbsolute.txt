@@ -1,0 +1,6 @@
+D:\Projects\1_Introduction\1_1_Console\CarpimTablosu\CarpimTablosu\bin\Debug\CarpimTablosu.exe.config
+D:\Projects\1_Introduction\1_1_Console\CarpimTablosu\CarpimTablosu\bin\Debug\CarpimTablosu.exe
+D:\Projects\1_Introduction\1_1_Console\CarpimTablosu\CarpimTablosu\bin\Debug\CarpimTablosu.pdb
+D:\Projects\1_Introduction\1_1_Console\CarpimTablosu\CarpimTablosu\obj\Debug\CarpimTablosu.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_1_Console\CarpimTablosu\CarpimTablosu\obj\Debug\CarpimTablosu.exe
+D:\Projects\1_Introduction\1_1_Console\CarpimTablosu\CarpimTablosu\obj\Debug\CarpimTablosu.pdb

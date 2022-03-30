@@ -1,0 +1,6 @@
+D:\Projects\1_Introduction\1_1_Console\AdanZyeEkranaYazma\AdanZyeEkranaYazma\bin\Debug\AdanZyeEkranaYazma.exe.config
+D:\Projects\1_Introduction\1_1_Console\AdanZyeEkranaYazma\AdanZyeEkranaYazma\bin\Debug\AdanZyeEkranaYazma.exe
+D:\Projects\1_Introduction\1_1_Console\AdanZyeEkranaYazma\AdanZyeEkranaYazma\bin\Debug\AdanZyeEkranaYazma.pdb
+D:\Projects\1_Introduction\1_1_Console\AdanZyeEkranaYazma\AdanZyeEkranaYazma\obj\Debug\AdanZyeEkranaYazma.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_1_Console\AdanZyeEkranaYazma\AdanZyeEkranaYazma\obj\Debug\AdanZyeEkranaYazma.exe
+D:\Projects\1_Introduction\1_1_Console\AdanZyeEkranaYazma\AdanZyeEkranaYazma\obj\Debug\AdanZyeEkranaYazma.pdb

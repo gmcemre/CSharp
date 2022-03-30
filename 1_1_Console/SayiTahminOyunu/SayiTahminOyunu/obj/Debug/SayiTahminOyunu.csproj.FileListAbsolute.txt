@@ -1,0 +1,7 @@
+D:\Projects\1_Introduction\1_1_Console\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe.config
+D:\Projects\1_Introduction\1_1_Console\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe
+D:\Projects\1_Introduction\1_1_Console\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.pdb
+D:\Projects\1_Introduction\1_1_Console\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.AssemblyReference.cache
+D:\Projects\1_Introduction\1_1_Console\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_1_Console\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.exe
+D:\Projects\1_Introduction\1_1_Console\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.pdb

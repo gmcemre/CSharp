@@ -1,0 +1,7 @@
+D:\Projects\1_Introduction\1_1_Console\SesliHarfBulma\SesliHarfBulma\bin\Debug\SesliHarfBulma.exe.config
+D:\Projects\1_Introduction\1_1_Console\SesliHarfBulma\SesliHarfBulma\bin\Debug\SesliHarfBulma.exe
+D:\Projects\1_Introduction\1_1_Console\SesliHarfBulma\SesliHarfBulma\bin\Debug\SesliHarfBulma.pdb
+D:\Projects\1_Introduction\1_1_Console\SesliHarfBulma\SesliHarfBulma\obj\Debug\SesliHarfBulma.csproj.AssemblyReference.cache
+D:\Projects\1_Introduction\1_1_Console\SesliHarfBulma\SesliHarfBulma\obj\Debug\SesliHarfBulma.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_1_Console\SesliHarfBulma\SesliHarfBulma\obj\Debug\SesliHarfBulma.exe
+D:\Projects\1_Introduction\1_1_Console\SesliHarfBulma\SesliHarfBulma\obj\Debug\SesliHarfBulma.pdb

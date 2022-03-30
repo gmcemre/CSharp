@@ -1,0 +1,7 @@
+D:\Projects\1_Introduction\1_1_Console\ForeachDongusu\ForeachDongusu\bin\Debug\ForeachDongusu.exe.config
+D:\Projects\1_Introduction\1_1_Console\ForeachDongusu\ForeachDongusu\bin\Debug\ForeachDongusu.exe
+D:\Projects\1_Introduction\1_1_Console\ForeachDongusu\ForeachDongusu\bin\Debug\ForeachDongusu.pdb
+D:\Projects\1_Introduction\1_1_Console\ForeachDongusu\ForeachDongusu\obj\Debug\ForeachDongusu.csproj.AssemblyReference.cache
+D:\Projects\1_Introduction\1_1_Console\ForeachDongusu\ForeachDongusu\obj\Debug\ForeachDongusu.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_1_Console\ForeachDongusu\ForeachDongusu\obj\Debug\ForeachDongusu.exe
+D:\Projects\1_Introduction\1_1_Console\ForeachDongusu\ForeachDongusu\obj\Debug\ForeachDongusu.pdb

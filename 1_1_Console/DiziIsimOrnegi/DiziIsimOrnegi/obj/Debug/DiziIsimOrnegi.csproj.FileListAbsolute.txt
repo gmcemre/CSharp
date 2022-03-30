@@ -1,0 +1,7 @@
+D:\Projects\1_Introduction\1_1_Console\DiziIsimOrnegi\DiziIsimOrnegi\bin\Debug\DiziIsimOrnegi.exe.config
+D:\Projects\1_Introduction\1_1_Console\DiziIsimOrnegi\DiziIsimOrnegi\bin\Debug\DiziIsimOrnegi.exe
+D:\Projects\1_Introduction\1_1_Console\DiziIsimOrnegi\DiziIsimOrnegi\bin\Debug\DiziIsimOrnegi.pdb
+D:\Projects\1_Introduction\1_1_Console\DiziIsimOrnegi\DiziIsimOrnegi\obj\Debug\DiziIsimOrnegi.csproj.AssemblyReference.cache
+D:\Projects\1_Introduction\1_1_Console\DiziIsimOrnegi\DiziIsimOrnegi\obj\Debug\DiziIsimOrnegi.csproj.CoreCompileInputs.cache
+D:\Projects\1_Introduction\1_1_Console\DiziIsimOrnegi\DiziIsimOrnegi\obj\Debug\DiziIsimOrnegi.exe
+D:\Projects\1_Introduction\1_1_Console\DiziIsimOrnegi\DiziIsimOrnegi\obj\Debug\DiziIsimOrnegi.pdb
